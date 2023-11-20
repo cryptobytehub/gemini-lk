@@ -27,7 +27,6 @@
 #include <list.h>
 #include <compiler.h>
 #include <arch/ops.h>
-#include <arch/thread.h>
 
 enum thread_state {
 	THREAD_SUSPENDED = 0,
